@@ -1,5 +1,5 @@
 ---
-snip: 10
+snip: 43
 title: simple token
 author: Xiang (@wenzhenxiang), Ben77 (@ben2077), Mingshi S. (@newnewsms)
 status: Draft
